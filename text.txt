@@ -1,2 +1,3 @@
 text.txt
 add changes
+git remote add origin https://github.com/vidya0576/GITlearning.git
